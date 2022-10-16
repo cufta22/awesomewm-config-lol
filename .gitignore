@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!/awesome/**
+!/neofetch/*
+!/picom/*
+!/rofi/*
+!/.github/**
+!README.md
+# etc...
+
+# ...even if they are in subdirectories
+!*/
