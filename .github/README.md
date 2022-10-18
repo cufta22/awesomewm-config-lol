@@ -30,7 +30,7 @@
    
     sudo pacman -S lxappearance rofi thunar brightnessctl papirus-icon-theme ttf-roboto catppuccin-gtk-theme
 
-    yay -S picom-jonaburg-git lain-git
+    yay -S picom-jonaburg-git lain-git pulseaudio-ctl
    
     ```
 
